@@ -26,6 +26,10 @@
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) 
 
+# 👩🏻‍💻 Exploring & Improving My Skills Here:
+- Currently at **Spyhre Software Solutions** 🚀  
+- Expanding expertise in **React.js**, **Angular**, and **AI-powered development**
+
 # 🤖 AI & Creative Skills:
 - **[ChatGPT](ca://s?q=Learn_about_ChatGPT)** Prompt Engineering  
 - **[Vibe Coding](ca://s?q=Explain_Vibe_Coding)** (creative coding with AI flair)  
